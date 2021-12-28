@@ -1,0 +1,14 @@
+Version 1.60. Changelog:
+
+>Hyper-speed scrolling and calendar view for Shared Media. 
+>Join requests for groups and channels. 
+>More interactive emoji. 
+>Added option to hide keyboard on chat scroll
+>Added option to disable automatic download of next audio
+>Enabled changing music speed if duration less than 10 minutes.
+>Added day of week info to "Schedule message".
+>Deleted "via bot" info if forwarding without quoting.
+>Added option to hide app update popup or show it only if connected over wifi
+>Added option to hide chat greeting
+>Added option to confirm before sending gif or sticker
+>Added option do disable jumping to next channel in chat screen
