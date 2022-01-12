@@ -1,4 +1,4 @@
-Version 1.60. Changelog:
+Version 1.70. Changelog:
 
 >Hyper-speed scrolling and calendar view for Shared Media. 
 >Join requests for groups and channels. 
